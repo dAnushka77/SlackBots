@@ -1,0 +1,21 @@
+[
+    {
+      "name": "Alice",
+      "email": "alice@gmail.com",
+      "role": "Data Analyst",
+      "status": "selected"
+    },
+    {
+      "name": "John",
+      "email": "john@example.com",
+      "role": "Engineer",
+      "status": "rejected"
+    },
+    {
+        "name": "Bob",
+        "email": "bob@yahoo.com",
+        "role": "Scientist",
+        "status": "selected"
+    }
+  ]
+  
