@@ -1,0 +1,21 @@
+[
+    {
+      "name": "Alice",
+      "email": "anushkd1@umbc.edu",
+      "role": "Data Analyst",
+      "status": "selected"
+    },
+    {
+      "name": "John",
+      "email": "dhekneanuhska@gmail.com",
+      "role": "Engineer",
+      "status": "rejected"
+    },
+    {
+        "name": "Bob",
+        "email": "bob@yahoo.com",
+        "role": "Scientist",
+        "status": "selected"
+    }
+  ]
+  
